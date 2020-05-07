@@ -23,6 +23,8 @@ First you need to get the slack api token for your bot.
 You can creat a new app on [this integration page](https://api.slack.com/bot-users), and acquire Bot User OAuth Access Token to get authority for this program to work properly.  
 The app is *bot* as OAuth scope.
 
+* NOTICE * You have to make an classic app to use rtm.connect of slackbot. [More Detail]( https://api.slack.com/authentication/oauth-v2)
+
 ### Install your app to slack
 
  Choose and install the bot to your workspace.
